@@ -1,6 +1,6 @@
 # Doubly-Linked-List-Methods
 This project about application of doubly linked list.In this project i applied some methods in order to observe behaviour of linked list structure. 1-Insert:Insertion of new element 2-Delete:Deletion of existing element 3-Output:Printing the linked list respectively. 4-ReverseLink:Reverse operation of linked list(permanent change occurs) 5-ROutput:Only print the elements of linked list reversely. 6-SquashL:For each element of linked list finding how many time they are duplicated . 7-OplashL:Reverse operation of SquashL.
-Purpose
+# Purpose
 In this homework, my purpose is implementing interface which  given in homework and create algorithm to method which given in interface with use double linked list.
 How did I solve problems
 I define first that show first of linked list and end that show end of linked list using encapsulation.Also, I created LinkedListJava constructor that equals first and end null.
